@@ -1,2 +1,2 @@
 # secure-pass
-I create a projrct in python using streamlit
+I create a project in python by using streamlit
